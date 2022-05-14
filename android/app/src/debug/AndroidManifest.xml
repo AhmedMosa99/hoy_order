@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com.hoyOrder/apk/res/android"
+    package="com.hoyOrder">
+    <!-- Flutter needs it to com.hoyOrdermunicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
